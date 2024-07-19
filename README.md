@@ -29,14 +29,6 @@ Year-over-Year Growth: Evaluate the year-over-year growth for multiple key metri
 
 Microsoft Excel: Used for data analysis, visualization, and dashboard creation.
 
-# How to Use
-
-Download the Excel file from the repository.
-
-Open the file in Microsoft Excel.
-
-Explore the different sheets and interact with the dashboard to view various insights.
-
 # Data Visualization: 
 
 Creating charts, graphs, and pivot tables to visualize the data.
@@ -52,6 +44,14 @@ Sales Trends: Identified peak sales periods and seasonal trends.
 Top Products: Highlighted the best-selling products and categories.
 
 Geographical Performance: Analyzed sales performance across different regions.
+
+# How to Use
+
+Download the Excel file from the repository.
+
+Open the file in Microsoft Excel.
+
+Explore the different sheets and interact with the dashboard to view various insights.
 
 # Conclusion:
 
