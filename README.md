@@ -9,7 +9,7 @@ By utilizing Microsoft Excel, this project aims to analyze various sales metrics
 # Objectives
 
 To analyze the overall sales performance.
-
+                                                                                                                 
 To identify trends and patterns in sales data.
 
 To provide actionable insights for business growth.
