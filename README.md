@@ -63,7 +63,9 @@ growth.
 
 # Dashboard
 
-[Uploading Ecommerce_Sales_Analysis_Dashboard.xlsx…]()
+[Ecommerce_Sales_Analysis_Dashboard.xlsx](https://github.com/user-attachments/files/18193339/Ecommerce_Sales_Analysis_Dashboard.xlsx)
+
+
 
 
 
